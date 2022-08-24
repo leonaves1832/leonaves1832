@@ -1,4 +1,6 @@
-### Oiii! Sou o Léo Naves. Eu quero te contratar! 👋🚀
+### Olá, tudo bem? Eu sou o Léo Naves! ! 👋🚀
+
+🔎 Atuo com Recrutamento e seleção na Área de Tecnologia.
 
 <!--
 **leonaves1832/leonaves1832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
