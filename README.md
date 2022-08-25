@@ -13,7 +13,7 @@
 Recrutamento e Seleção de profissionais de TI;
 Hunting e Alocação de Profissionais de Tecnologia para diversas regiões do país, desde posições operacionais à liderança. 
 
-AS principais oportunidade são para: 
+As principais oportunidade são para: 
 
 <div style= "Display: inline_block"><br/>
 <img align="center" alt="JavaScript" src=   https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
